@@ -23,7 +23,7 @@
   - Мультиклассовой классификации
   - GPU-ускорения
   - EarlyStopping
-- Оценка метрик на hold-out test (из train):
+- Оценка метрик на hold-out test:
   - **Accuracy**: 80.4%
   - **Macro F1-score**: 79%
   - **ROC-AUC (OvR)**: 92.2%
