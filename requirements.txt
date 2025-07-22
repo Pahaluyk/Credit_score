@@ -1,0 +1,14 @@
+zenml
+catboost
+joblib
+lightgbm
+optuna
+streamlit
+xgboost
+markupsafe
+pandas
+matplotlib
+seaborn
+scikit-learn
+numpy
+mlflow

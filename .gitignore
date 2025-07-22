@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# Logs and debug info
+*.log
+
+# Python Jupyter/IPython
+.ipynb_checkpoints/
+
+# ML artifacts
+.zen/
+mlruns/
+saved_model/
+zenml_artifact_store/
+zenml_logs/
+
+# Environment files
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
