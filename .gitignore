@@ -14,8 +14,7 @@ venv/
 # Logs and debug info
 *.log
 
-# Python Jupyter/IPython
-.ipynb_checkpoints/
+
 
 # ML artifacts
 .zen/
