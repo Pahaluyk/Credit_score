@@ -27,6 +27,9 @@
 > Все метрики автоматически логгируются в MLflow и могут быть отслежены в интерфейсе [`http://127.0.0.1:5000`](http://127.0.0.1:5000) при запуске `mlflow ui`.
 
 ---
+## Пайплайн ZenML
+
+<img width="848" height="586" alt="image" src="https://github.com/user-attachments/assets/87035329-d023-4e91-b1fd-4ee4b91c94fc" />
 
 
 
