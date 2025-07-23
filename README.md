@@ -32,7 +32,7 @@
 <img width="848" height="586" alt="image" src="https://github.com/user-attachments/assets/87035329-d023-4e91-b1fd-4ee4b91c94fc" />
 
 
-
+Инструкция по запуску позднее
 
 
 ## 📁 Структура проекта
