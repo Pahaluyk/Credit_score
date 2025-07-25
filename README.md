@@ -35,6 +35,12 @@
 # Инструкция по запуску проекта
 
 ```bash
+# Клонирование репозитория
+git clone https://github.com/Pahaluyk/Credit_score.git
+
+# Переход в папку проекта
+cd Credit_score
+
 # Создание виртуального окружения для изоляции зависимостей
 python -m venv .venv
 
