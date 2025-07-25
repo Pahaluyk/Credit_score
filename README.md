@@ -32,8 +32,19 @@
 <img width="848" height="586" alt="image" src="https://github.com/user-attachments/assets/87035329-d023-4e91-b1fd-4ee4b91c94fc" />
 
 
-Инструкция по запуску позднее
+# Запуск проекта с ZenML и MLflow
 
+## 1. Создать и активировать виртуальное окружение
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+pip install "zenml[server]"
+zenml integration install mlflow -y
+python setup_zenml.py
+python run_pipeline.py
+zenml login --local --blocking 
 
 ## 📁 Структура проекта
 
