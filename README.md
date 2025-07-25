@@ -45,7 +45,7 @@ zenml integration install mlflow -y
 python setup_zenml.py
 python run_pipeline.py
 zenml login --local --blocking 
-
+```
 ## 📁 Структура проекта
 
 Credit_Score_MLOps/  
