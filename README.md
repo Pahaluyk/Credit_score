@@ -24,7 +24,7 @@
 Также в MLflow выводится Feature Importance
 
 <img width="1561" height="707" alt="image" src="https://github.com/user-attachments/assets/9e64aa8d-e34e-406c-8608-cfb7711b9966" />
-> Все метрики автоматически логгируются в MLflow и могут быть отслежены в интерфейсе [`http://127.0.0.1:5000`](http://127.0.0.1:5000) при запуске `mlflow ui`.
+> Все метрики автоматически логгируются в MLflow и могут быть отслежены в интерфейсе при запуске `mlflow ui`.
 
 ---
 ## Пайплайн ZenML
@@ -97,3 +97,4 @@ Credit_Score_MLOps/
 ├── requirements.txt           - Зависимости Python  
 ├── run_pipeline.py            - Скрипт запуска пайплайна  
 └── setup_zenml.py             - Скрипт настройки ZenML стека  
+
